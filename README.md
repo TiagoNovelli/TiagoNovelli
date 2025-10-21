@@ -78,7 +78,7 @@ Materiais de estudo e códigos de apoio que uso como base para projetos mais ava
 | **Data Engineering** | Databricks, Apache Spark, Delta Lake, SQL |
 | **Machine Learning** | Scikit-learn, Pandas, PySpark MLlib |
 | **Cloud** | AWS, Terraform |
-| **Visualização** | Power BI, Tableau |
+| **Visualização** | Power BI |
 | **Versionamento e DevOps** | Git, Docker, CI/CD |
 
 ---
