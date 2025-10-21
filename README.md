@@ -87,7 +87,7 @@ Materiais de estudo e códigos de apoio que uso como base para projetos mais ava
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiagonovelli)
 - 🧑‍💻 [GitHub](https://github.com/TiagoNovelli)
-- ✉️ tiagonovelli.dev@gmail.com (exemplo — substitua pelo seu e-mail se quiser incluir)
+- ✉️ tiagonovelli95@gmail.com
 
 ---
 
