@@ -22,13 +22,20 @@ databricks-projects/
 │ └── jobs/ # Jobs e pipelines automatizados
 │
 ├── credit-card-fraud/
-│ ├── data_prep/ # Limpeza e pré-processamento de dados
-│ ├── pca_analysis/ # Redução de dimensionalidade com PCA
-│ └── ml_model/ # Modelagem e avaliação de algoritmos de detecção de fraude
+│ ├── 01_bronze_ingestion_dev.ipynb/ # Limpeza e pré-processamento de dados
+│ └── 02_silver_dev.ipynb/ # Modelagem e avaliação de algoritmos de detecção de fraude
 │
-└── fly-analyses/
-├── data/ # Duas tabelas simples para análise
-└── notebooks/ # Consultas e análises exploratórias
+├── fly-analysis/ # Dados de voo
+│ ├── 02_silver_layer.ipynb/ # Limpeza e pré-processamento de dados
+│ └── 03_gold_layer.py.ipynb/ # Arquivo com array pca para modelo de ML
+│
+├── mongodb/
+│ └── sample_mflix/ # Limpeza e pré-processamento de arquivos json (Achatamento)
+│
+└── telemetria/
+  ├── iot/ # Limpeza e pré-processamento de arquivos
+  └── iot-streaming/ 
+
 ```
 
 **Destaques:**
