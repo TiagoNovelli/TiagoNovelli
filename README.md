@@ -65,7 +65,8 @@ Coleção de relatórios e dashboards criados em **Power BI**, com arquivos `.pb
 **Destaques:**
 - Dashboards de vendas e performance  
 - Análises comparativas e indicadores de negócio  
-- Layouts otimizados para storytelling de dados  
+- Layouts otimizados para storytelling de dados
+- [Projeto Power BI]([https://www.linkedin.com/in/tiagonovelli](https://app.powerbi.com/view?r=eyJrIjoiZmZlMmEwYTQtN2MyMC00ZjNmLWI5NWMtYmI2Njk3MDMzM2ViIiwidCI6IjZjMjNjYmUxLTkyOWQtNDEzYS1hNzYwLTNjOWQ5NDkwZTE0OSJ9))
 
 ---
 
